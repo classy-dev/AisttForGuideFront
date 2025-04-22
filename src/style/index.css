@@ -1,0 +1,147 @@
+@import './font.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-size: 62.5%;
+}
+
+html,
+body,
+#root {
+  position: relative;
+  width: 100%;
+  height: theme('height.screen');
+}
+html,
+body {
+  font-size: 1.4rem;
+  @apply antialiased;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.15;
+  color: #5a6376;
+}
+
+.customer-screen-font {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.menu-item-image-wrapper {
+  position: relative;
+  padding-bottom: 63.3%;
+}
+
+.page-transition-enter {
+  opacity: 0;
+  z-index: 1;
+}
+
+.page-transition-enter.page-transition-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-out;
+}
+
+.page-transition-exit {
+  opacity: 1;
+}
+
+.page-transition-exit.page-transition-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-out;
+}
+
+.solano-g {
+  font-family: 'Solano Gothic', sans-serif !important;
+  font-weight: bold;
+}
+
+.scale-fade-enter {
+  opacity: 0;
+  transform: scale(0.85);
+}
+
+.scale-fade-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: all 350ms ease-out;
+}
+
+.scale-fade-exit {
+  opacity: 1;
+}
+
+.scale-fade-exit-active {
+  opacity: 0;
+  transform: scale(0.85);
+  transition: all 350ms ease-out;
+}
+
+.message-queue-exit {
+  opacity: 1;
+}
+
+.message-queue-exit-active {
+  opacity: 0;
+
+  transition: all 350ms ease-out;
+  pointer-events: none;
+}
+
+.message-queue-enter {
+  opacity: 0;
+}
+
+.message-queue-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 350ms ease-out;
+  pointer-events: none;
+}
+
+.infinite-fade {
+  animation: fade 1000ms ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  transform-origin: center;
+  opacity: 0;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.infinite-half-fade {
+  animation: half-fade 1000ms ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  transform-origin: center;
+  opacity: 0;
+}
+
+@keyframes half-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.65;
+  }
+}

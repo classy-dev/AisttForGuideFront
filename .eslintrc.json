@@ -1,0 +1,117 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "react-hooks",
+    "prettier",
+    "import",
+    "unused-imports"
+  ],
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+
+      "rules": {
+        "no-undef": "off",
+        "react-a11y": "off"
+      }
+    }
+  ],
+  "rules": {
+    "no-unused-vars": "warn",
+    "unused-imports/no-unused-imports-ts": ["error"],
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": ["**/*.config.ts"]
+      }
+    ],
+    "react/require-default-props": "off",
+    "import/order": [
+      "warn",
+      {
+        "groups": ["builtin", "external", "internal"],
+        "pathGroups": [
+          {
+            "pattern": "react",
+            "group": "external",
+            "position": "before"
+          },
+          {
+            "pattern": "react-*",
+            "group": "external",
+            "position": "before"
+          },
+          {
+            "pattern": "@emotion/**",
+            "group": "external",
+            "position": "after"
+          },
+          {
+            "pattern": "ApiFarm/**",
+            "group": "internal",
+            "position": "after"
+          },
+          {
+            "pattern": "InterfaceFarm/**",
+            "group": "internal",
+            "position": "after"
+          },
+          {
+            "pattern": "ComponentFarm/**",
+            "group": "internal",
+            "position": "after"
+          },
+          {
+            "pattern": "HookFarm/**",
+            "group": "internal",
+            "position": "after"
+          },
+          {
+            "pattern": "UtilFarm/**",
+            "group": "internal",
+            "position": "after"
+          },
+          {
+            "pattern": "AssetFarm/**",
+            "group": "internal",
+            "position": "after"
+          },
+          {
+            "pattern": "[./]**",
+            "group": "internal",
+            "position": "after"
+          }
+        ],
+        "pathGroupsExcludedImportTypes": ["builtin"],
+        "newlines-between": "never",
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
+        }
+      }
+    ]
+  },
+  "globals": {
+    "React": "writable"
+  }
+}

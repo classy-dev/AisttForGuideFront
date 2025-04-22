@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'DIN Condensed';
+  font-weight: normal;
+  src: local('DIN Condensed'), url('/font/DIN-Condensed-Bold.woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 100;
+  src:
+    local('Noto Sans KR'),
+    url('/font/noto-sans-kr-v21-korean-100.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/noto-sans-kr-v21-korean-100.woff2') format('woff2'),
+    url('/font/noto-sans-kr-v21-korean-100.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local('Noto Sans KR'),
+    url('/font/noto-sans-kr-v21-korean-300.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/noto-sans-kr-v21-korean-300.woff2') format('woff2'),
+    url('/font/noto-sans-kr-v21-korean-100.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Solano Gothic';
+  font-weight: normal;
+  src: url('/font/MVB-SolanoGothic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Noto Sans KR'),
+    url('/font/noto-sans-kr-v21-korean-regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/noto-sans-kr-v21-korean-regular.woff2') format('woff2'),
+    url('/font/noto-sans-kr-v21-korean-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('Noto Sans KR'),
+    url('/font/noto-sans-kr-v21-korean-500.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/noto-sans-kr-v21-korean-500.woff2') format('woff2'),
+    url('/font/noto-sans-kr-v21-korean-500.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('Noto Sans KR'),
+    url('/font/noto-sans-kr-v21-korean-700.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/noto-sans-kr-v21-korean-700.woff2') format('woff2'),
+    url('/font/noto-sans-kr-v21-korean-700.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 900;
+  src:
+    local('Noto Sans KR'),
+    url('/font/noto-sans-kr-v21-korean-900.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/noto-sans-kr-v21-korean-900.woff2') format('woff2'),
+    url('/font/noto-sans-kr-v21-korean-900.woff') format('woff');
+}

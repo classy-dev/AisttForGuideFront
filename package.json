@@ -1,0 +1,95 @@
+{
+  "name": "aisttforguide",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@emotion-icons/bootstrap": "^3.27.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@reduxjs/toolkit": "^1.9.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/animejs": "^3.1.6",
+    "@types/d3": "^7.4.3",
+    "@types/fabric": "^5.3.7",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.3",
+    "@types/offscreencanvas": "^2019.7.3",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
+    "@types/react-transition-group": "^4.4.5",
+    "@vercel/blob": "^0.23.3",
+    "animejs": "^3.2.1",
+    "aws-sdk": "^2.1544.0",
+    "axios": "^1.2.0",
+    "d3": "^7.8.5",
+    "fabric": "^5.3.0",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.39.7",
+    "react-json-view": "^1.21.3",
+    "react-query": "^3.39.2",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.3",
+    "react-toastify": "^9.1.1",
+    "react-transition-group": "^4.4.5",
+    "recharts": "^2.1.16",
+    "redux": "^4.2.1",
+    "sass": "^1.56.1",
+    "socket.io-client": "^4.5.4",
+    "terser-webpack-plugin": "^5.3.10",
+    "typescript": "^4.9.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
+    "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx src"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.13.0",
+    "@typescript-eslint/parser": "^6.13.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^5.0.0-alpha.2",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-storybook": "^0.6.13",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "postcss": "^8.4.19",
+    "prettier": "^3.0.0",
+    "prettier-plugin-sort-imports": "^1.7.2",
+    "react-app-alias": "^2.2.2",
+    "tailwindcss": "^3.3.2",
+    "vite": "^5.4.8",
+    "vite-tsconfig-paths": "^5.0.1"
+  }
+}

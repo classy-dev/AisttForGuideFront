@@ -1,0 +1,2442 @@
+{
+  "recipe_ingredients": [
+    {
+      "ingredient_idx": 1,
+      "ingredient_name": "크리스피 빠삭 도우",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+      "ingredient_unit": "EA"
+    },
+    {
+      "ingredient_idx": 2,
+      "ingredient_name": "고피자 토마토 소스",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 3,
+      "ingredient_name": "모짜렐라 치즈",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 4,
+      "ingredient_name": "페퍼로니",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+      "ingredient_unit": "장"
+    },
+    {
+      "ingredient_idx": 5,
+      "ingredient_name": "고피자 바질오일",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%87%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AF.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 6,
+      "ingredient_name": "마리네이드 토마토",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%86%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9.png",
+      "ingredient_unit": "개"
+    },
+    {
+      "ingredient_idx": 7,
+      "ingredient_name": "그라나파다노",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A1%E1%84%82%E1%85%A1%E1%84%91%E1%85%A1%E1%84%83%E1%85%A1%E1%84%82%E1%85%A9.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 8,
+      "ingredient_name": "미트 소스",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 9,
+      "ingredient_name": "오뗄 포크토핑",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%91%E1%85%A9%E1%84%8F%E1%85%B3%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 10,
+      "ingredient_name": "구운 양파 소스",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%87%E1%85%A1%E1%84%87%E1%85%A6%E1%84%8F%E1%85%B2%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 11,
+      "ingredient_name": "레드체다 치즈",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 12,
+      "ingredient_name": "크러쉬드 레드페퍼",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 13,
+      "ingredient_name": "고피자 시즈닝",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%89%E1%85%B5%E1%84%8C%E1%85%B3%E1%84%82%E1%85%B5%E1%86%BC.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 14,
+      "ingredient_name": "마요네즈",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%82%E1%85%A6%E1%84%8C%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 15,
+      "ingredient_name": "랜치드레싱",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 16,
+      "ingredient_name": "고르곤 졸라",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A1.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 17,
+      "ingredient_name": "튀긴마늘",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%80%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%A8%E1%84%8E%E1%85%B5%E1%86%B8.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 18,
+      "ingredient_name": "잡화청",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%81%E1%85%AE%E1%86%AF.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 19,
+      "ingredient_name": "콘소메 소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 20,
+      "ingredient_name": "스위트콘",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 21,
+      "ingredient_name": "양파",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 22,
+      "ingredient_name": "콘소메이징 시즈닝",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 23,
+      "ingredient_name": "파마산 치즈",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 24,
+      "ingredient_name": "케이엔 페퍼",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 25,
+      "ingredient_name": "고구마 무스",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1%E1%84%86%E1%85%AE%E1%84%89%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 26,
+      "ingredient_name": "허니 머스타드소스",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 27,
+      "ingredient_name": "포크 불고기 분쇄",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 28,
+      "ingredient_name": "배터 바이트",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%87%E1%85%A2%E1%84%90%E1%85%A5%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 29,
+      "ingredient_name": "베이컨",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A5%E1%86%AB.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 30,
+      "ingredient_name": "고피자 랜치소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 31,
+      "ingredient_name": "잭다니엘 소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 32,
+      "ingredient_name": "팝콘 치킨",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 33,
+      "ingredient_name": "절단 옥수수",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 34,
+      "ingredient_name": "파이어 소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 35,
+      "ingredient_name": "표고버섯",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 36,
+      "ingredient_name": "블랙 올리브",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%87%E1%85%B3.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 37,
+      "ingredient_name": "청피망",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%91%E1%85%B5%E1%84%86%E1%85%A1%E1%86%BC.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 38,
+      "ingredient_name": "소불고기",
+      "ingredient_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240220/ingredients/%E1%84%89%E1%85%A9%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5.png",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 39,
+      "ingredient_name": "떡",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 40,
+      "ingredient_name": "어묵",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 41,
+      "ingredient_name": "고피자 떡볶이 소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 42,
+      "ingredient_name": "깐계란",
+      "ingredient_image": "",
+      "ingredient_unit": "개"
+    },
+    {
+      "ingredient_idx": 43,
+      "ingredient_name": "튀김만두",
+      "ingredient_image": "",
+      "ingredient_unit": "개"
+    },
+    {
+      "ingredient_idx": 44,
+      "ingredient_name": "파스타면",
+      "ingredient_image": "",
+      "ingredient_unit": "EA"
+    },
+    {
+      "ingredient_idx": 45,
+      "ingredient_name": "올리브 오일",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 46,
+      "ingredient_name": "발사믹 소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 47,
+      "ingredient_name": "샐러드 믹스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 48,
+      "ingredient_name": "부라타 치즈",
+      "ingredient_image": "",
+      "ingredient_unit": "EA"
+    },
+    {
+      "ingredient_idx": 49,
+      "ingredient_name": "사워크림 드레싱",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 50,
+      "ingredient_name": "단호박 샐러드",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 51,
+      "ingredient_name": "로제 소스",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 52,
+      "ingredient_name": "마라유",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    },
+    {
+      "ingredient_idx": 53,
+      "ingredient_name": "피쉬볼",
+      "ingredient_image": "",
+      "ingredient_unit": "g"
+    }
+  ],
+  "menu": [
+    {
+      "menu_idx": 1,
+      "analysis_idx": 5,
+      "menu_name": "아메리칸 치즈 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%8B%E1%85%A1%E1%84%86%E1%85%A6%E1%84%85%E1%85%B5%E1%84%8F%E1%85%A1%E1%86%AB+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+
+      "use_guide": true,
+
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/american_cheese/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 93,
+          "task": "segmentation",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 50g을 도우에 올린 후, 표시된 영역에 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 50g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 표시된 영역에 더 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/american_cheese/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 92,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 120,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 120g을 도우에 올린 후, 표시된 영역에 골고루 뿌려주세요",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 120g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 표시된 영역에 더 뿌려주세요."
+          }
+        }
+      ]
+    },
+    {
+      "menu_idx": 2,
+      "analysis_idx": 8,
+      "menu_name": "클래식 마르게리타 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B5%E1%86%A8+%E1%84%86%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A6%E1%84%85%E1%85%B5%E1%84%90%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 3,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/04.+(8)+%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B5%E1%86%A8+%E1%84%86%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A6%E1%84%85%E1%85%B5%E1%84%90%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(3)+%E1%84%87%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AF.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 5,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "20줄",
+          "messages": {
+            "start": "하단 저울을 기준으로 바질오일 10g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 바질오일 10g을 도우에 펴 발라주세요.",
+            "no_toppings": "바질오일을 도우에 펴 발라주세요.",
+            "lack_amount": "바질오일이 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 5,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/04.+(8)+%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B5%E1%86%A8+%E1%84%86%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A6%E1%84%85%E1%85%B5%E1%84%90%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(5)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3(%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 5,
+          "task": "detection",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 25,
+          "measure_note": "5등분",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 25g을 이미지와 같이 5g씩 도우 위에 올려주세요",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 5g씩 5개를 도우에 놓아주세요.",
+            "no_toppings": "토마토 소스를 도우에 놓아주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 9,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/04.+(8)+%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B5%E1%86%A8+%E1%84%86%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A6%E1%84%85%E1%85%B5%E1%84%90%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(9)+%E1%84%86%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9.png",
+          "required_value": 5,
+          "task": "detection",
+          "ingredient_idx": 6,
+          "is_after": false,
+          "topping_value": 5,
+          "measure_note": "",
+          "messages": {
+            "start": "마리네이드 토마토 5개를 도우에 올린 후, 이미지와 같이 골고루 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 마리네이드 토마토 5개를 도우에 놓아주세요.",
+            "no_toppings": "마리네이드 토마토를 도우에 놓아주세요.",
+            "lack_amount": "마리네이드 토마토가 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/04.+(8)+%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B5%E1%86%A8+%E1%84%86%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A6%E1%84%85%E1%85%B5%E1%84%90%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 40,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 40g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 40g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 7,
+          "is_after": true,
+          "topping_value": 2,
+          "measure_note": "16-18회"
+        },
+        {
+          "step_idx": 7,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 5,
+          "is_after": true,
+          "topping_value": 5,
+          "measure_note": "10줄"
+        }
+      ]
+    },
+    {
+      "menu_idx": 3,
+      "analysis_idx": 7,
+      "menu_name": "크레이지 미트 치즈 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 13,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/12.+(7)+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(13)+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 8,
+          "is_after": false,
+          "topping_value": 70,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 미트소스 70g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 미트소스 70g을 도우에 펴 발라주세요.",
+            "no_toppings": "미트소스를 도우에 펴 발라주세요.",
+            "lack_amount": "미트소스가 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/12.+(7)+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 20g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 20,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/12.+(7)+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(20)+%E1%84%8B%E1%85%A9%E1%84%84%E1%85%A8%E1%86%AF+%E1%84%91%E1%85%A9%E1%84%8F%E1%85%B3%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 9,
+          "is_after": false,
+          "topping_value": 17,
+          "measure_note": "17-18개",
+          "messages": {
+            "start": "오뗄 포크 토핑 17개를 도우에 올린 후, 이미지와 같이 골고루 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 오뗄 포크 토핑 17개를 도우에 놓아주세요.",
+            "no_toppings": "오뗄 포크 토핑를 도우에 놓아주세요.",
+            "lack_amount": "오뗄 포크 토핑이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 7,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/12.+(7)+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(7)+%E1%84%80%E1%85%AE%E1%84%8B%E1%85%AE%E1%86%AB+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1+%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3(%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%AF).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 10,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "5줄",
+          "messages": {
+            "start": "하단 저울을 기준으로 구운 양파 소스 10g을 이미지와 같이 5줄 토핑해주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 구운 양파 소스 10g을 5줄로 도우에 토핑해주세요.",
+            "no_toppings": "구운 양파 소스를 토핑해주세요.",
+            "lack_amount": "구운 양파 소스가 부족합니다. 이미지에 맞추어 더 토핑해주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 12,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/12.+(7)+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 20g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 7,
+          "step_code": 8,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/12.+(7)+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5+%E1%84%86%E1%85%B5%E1%84%90%E1%85%B3+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(8)+%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%E1%84%8E%E1%85%A6%E1%84%83%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 11,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 레드 체다 치즈 10g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 레드체다 치즈 10g을 도우에 뿌려주세요.",
+            "no_toppings": "레드체다 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "레드체다 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 12,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "10회"
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(굵은굵기)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 4,
+      "analysis_idx": 10,
+      "menu_name": "허니 고르곤졸라 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%92%E1%85%A5%E1%84%82%E1%85%B5+%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 10,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/06.+(10)+%E1%84%92%E1%85%A5%E1%84%82%E1%85%B5+%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%E1%86%AB+%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(10)+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%82%E1%85%A6%E1%84%8C%E1%85%B3+%26+%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%83%E1%85%B3%E1%84%85%E1%85%A6%E1%84%89%E1%85%B5%E1%86%BC.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 14,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "10줄",
+          "messages": {
+            "start": "하단 저울을 기준으로 마요네즈 10g과 랜치드레싱 20g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 마요네즈 10g과 랜치드레싱 20g을 도우에 펴 발라주세요.",
+            "no_toppings": "마요네즈와 랜치드레싱을 도우에 펴 발라주세요.",
+            "lack_amount": "마요네즈와 랜치드레싱이 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 15,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "20줄"
+        },
+        {
+          "step_idx": 4,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/06.+(10)+%E1%84%92%E1%85%A5%E1%84%82%E1%85%B5+%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%E1%86%AB+%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 70,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 70g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 50g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 2,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/06.+(10)+%E1%84%92%E1%85%A5%E1%84%82%E1%85%B5+%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%E1%86%AB+%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(2)+%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%E1%86%AB+%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 16,
+          "is_after": false,
+          "topping_value": 18,
+          "measure_note": "16-18개",
+          "messages": {
+            "start": "고르곤졸라 18g을 도우에 올린 후, 이미지와 같이 골고루 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 고르곤졸라 18g을 도우에 뿌려주세요.",
+            "no_toppings": "고르곤졸라를 도우에 뿌려주세요.",
+            "lack_amount": "고르곤졸라가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 17,
+          "is_after": true,
+          "topping_value": 3,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 7,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회 (굵은 굵기)"
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 18,
+          "is_after": true,
+          "topping_value": 30,
+          "measure_note": "별도제공"
+        }
+      ]
+    },
+    {
+      "menu_idx": 5,
+      "analysis_idx": 2,
+      "menu_name": "마약 옥수수 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 22,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/10.+(2)+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(22)+%E1%84%8F%E1%85%A9%E1%86%AB%E1%84%89%E1%85%A9%E1%84%86%E1%85%A6+%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 19,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "10줄",
+          "messages": {
+            "start": "하단 저울을 기준으로 콘소메 소스 20g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 콘소메소스 20g을 도우에 펴 발라주세요.",
+            "no_toppings": "콘소메소스를 도우에 펴 발라주세요.",
+            "lack_amount": "콘소메소스가 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/10.+(2)+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 40,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 40g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 40g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 18,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/10.+(2)+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(18)+%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A9%E1%86%AB(%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC+%E1%84%80%E1%85%B5%E1%84%8C%E1%85%AE%E1%86%AB).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 20,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 스위트콘 50g을 도우에 올린 후, 이미지와 같이 골고루 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 스위트콘 50g을 도우에 뿌려주세요.",
+            "no_toppings": "스위트콘을 도우에 뿌려주세요.",
+            "lack_amount": "스위트콘이 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 19,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/10.+(2)+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 양파 10g을 도우에 올린 후, 이미지와 같이 골고루 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 양파 20g과 콘소메이징 시즈닝 5g을 도우에 뿌려주세요.",
+            "no_toppings": "양파와 콘소메이징 시즈닝을 도우에 뿌려주세요.",
+            "lack_amount": "양파가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 28,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v231201/pizza/mayak_corn/Frame+18.png",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 22,
+          "is_after": false,
+          "topping_value": 5,
+          "measure_note": "17회(작은굵기)"
+        },
+        {
+          "step_idx": 7,
+          "step_code": 8,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/10.+(2)+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(8)+%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%E1%84%8E%E1%85%A6%E1%84%83%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 11,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 레드체다 치즈 20g을 도우에 올린 후, 이미지와 같이 골고루 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 레드체다 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "레드체다 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "레드체다 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 18,
+          "is_after": true,
+          "topping_value": 10,
+          "measure_note": "10줄"
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 14,
+          "is_after": true,
+          "topping_value": 20,
+          "measure_note": "20줄(10x10격자)"
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 23,
+          "is_after": true,
+          "topping_value": 2,
+          "measure_note": "5회(중간굵기)"
+        },
+        {
+          "step_idx": 11,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 24,
+          "is_after": true,
+          "topping_value": 0.3,
+          "measure_note": "6회"
+        }
+      ]
+    },
+    {
+      "menu_idx": 6,
+      "analysis_idx": 6,
+      "menu_name": "오리지널 페퍼로니 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v231017/main_menu/original-pepperoni/Slice+37.png",
+      "menu_type": "pizza",
+      "use_guide": true,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/maniac_pepperoni/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 93,
+          "task": "segmentation",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토소스 50g을 도우에 올린 후, 표시된 영역에 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토소스 50g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "토마토소스가 부족합니다. 표시된 영역에 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/maniac_pepperoni/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 58,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 70,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 70g을 표시된 영역에 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 70g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 표시된 영역에 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 23,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/original_pepperoni/03.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 13,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 13,
+          "measure_note": "13장/(4-5-4)배열",
+          "messages": {
+            "start": "페퍼로니 13개를 표시된 영역에 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 페퍼로니 13개를 도우에 놓아주세요.",
+            "no_toppings": "페퍼로니를 도우에 놓아주세요.",
+            "lack_amount": "페퍼로니가 부족합니다. 표시된 영역에 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(굵은굵기)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 7,
+      "analysis_idx": 12,
+      "menu_name": "매니악 페퍼로니 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v231017/main_menu/maniac-pepperoni/Slice+37.png",
+      "menu_type": "pizza",
+      "use_guide": true,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/original_pepperoni/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "task": "segmentation",
+          "required_value": 93,
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 50g을 도우에 올린 후, 표시된 영역에 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 50g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 표시된 영역에 더 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/original_pepperoni/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 58,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 70,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 70g을 도우에 올린 후, 표시된 영역에 골고루 뿌려주세요",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 70g을 도우에 올려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우 위에 올려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 표시된 영역에 맞추어 더 뿌려주세요"
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 23,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/maniac_pepperoni/03.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 18,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 18,
+          "measure_note": "18장/(4-5-5-4)배열",
+          "messages": {
+            "start": "페퍼로니 18개를 표시된 영역에 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 페퍼로니 18개를 표시된 영역에 놓아주세요.",
+            "no_toppings": "페퍼로니를 도우에 놓아주세요.",
+            "lack_amount": "페퍼로니가 부족합니다. 표시된 영역에 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(굵은굵기)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 8,
+      "analysis_idx": 1,
+      "menu_name": "달콤 고구마 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/05.+(1)+%E1%84%83%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 40,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 40g과 잡화청 10g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 40g과 잡화청 10g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스와 잡화청을 도우에 펴 발라주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 27,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 18,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "10줄"
+        },
+        {
+          "step_idx": 4,
+          "step_code": 1,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/05.+(1)+%E1%84%83%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(1)+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%86%E1%85%AE%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 25,
+          "is_after": false,
+          "topping_value": 80,
+          "measure_note": "깍지 7줄 드리즐",
+          "messages": {
+            "start": "하단 저울을 기준으로 고구마무스 80g을 7줄로 이미지와 같이 토핑해주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 고구마 무스 80g을 7줄로 도우 위에 토핑해주세요.",
+            "no_toppings": "고구마 무스를 도우에 토핑해주세요.",
+            "lack_amount": "고구마 무스가 부족합니다. 이미지에 맞추어 더 토핑해주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 18,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/05.+(1)+%E1%84%83%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(18)+%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A9%E1%86%AB(%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC+%E1%84%80%E1%85%B5%E1%84%8C%E1%85%AE%E1%86%AB).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 20,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 스위트콘 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 스위트콘 10g을 도우에 뿌려주세요.",
+            "no_toppings": "스위트콘을 도우에 뿌려주세요.",
+            "lack_amount": "스위트콘이 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 19,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/05.+(1)+%E1%84%83%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 양파 20g과 콘소메이징 시즈닝 1g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 양파 20g과 콘소메이징 시즈닝 1g을 도우에 뿌려주세요.",
+            "no_toppings": "양파와 콘소메이징 시즈닝을 도우에 뿌려주세요.",
+            "lack_amount": "양파가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 7,
+          "step_code": 28,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 22,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "3회(작은굵기)"
+        },
+        {
+          "step_idx": 8,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/05.+(1)+%E1%84%83%E1%85%A1%E1%86%AF%E1%84%8F%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%84%86%E1%85%A1+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 50g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 50g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 18,
+          "is_after": true,
+          "topping_value": 10,
+          "measure_note": "10줄"
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 26,
+          "is_after": true,
+          "topping_value": 10,
+          "measure_note": "10줄"
+        }
+      ]
+    },
+    {
+      "menu_idx": 9,
+      "analysis_idx": 3,
+      "menu_name": "베이컨 포테이토 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A5%E1%86%AB+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": true,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 93,
+          "task": "segmentation",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 50g을 도우에 올린 후, 표시된 영역에 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 50g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 표시된 영역에 더 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/03.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 22,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 20g을 표시된 영역에 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 표시된 영역에 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 24,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/04.+(24)+%E1%84%91%E1%85%A9%E1%84%8F%E1%85%B3+%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AB.png",
+          "ingredient_idx": 27,
+          "task": "segmentation",
+          "is_after": false,
+          "required_value": 14,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 포크불고기분쇄 10g을 표시된 영역에 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 포크 불고기 분쇄 10g을 도우에 뿌려주세요.",
+            "no_toppings": "포크 불고기 분쇄를 도우에 뿌려주세요.",
+            "lack_amount": "포크 불고기 분쇄가 부족합니다. 표시된 영역에 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 14,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/05.+(14)+%E1%84%87%E1%85%A2%E1%84%90%E1%85%A5+%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3.png",
+          "required_value": 11,
+          "task": "detection",
+          "ingredient_idx": 28,
+          "is_after": false,
+          "topping_value": 40,
+          "measure_note": "10-12개",
+          "messages": {
+            "start": "배터 바이트 11개를 표시된 영역에 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 배터 바이트 11개를 도우에 놓아주세요.",
+            "no_toppings": "배터 바이트를 도우에 놓아주세요.",
+            "lack_amount": "배터 바이트가 부족합니다. 표시된 영역에 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 15,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/06.+(15)+%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A5%E1%86%AB.png",
+          "required_value": 10,
+          "task": "detection",
+          "ingredient_idx": 29,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "10장(3-4-3배열)",
+          "messages": {
+            "start": "베이컨 10개를 표시된 영역에 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 베이컨 10개를 도우에 놓아주세요.",
+            "no_toppings": "베이컨을 도우에 놓아주세요.",
+            "lack_amount": "베이컨이 부족합니다. 표시된 영역에 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 7,
+          "step_code": 19,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/07.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 9,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 양파 10g을 표시된 영역에 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 양파 10g을 도우에 뿌려주세요.",
+            "no_toppings": "양파를 도우에 뿌려주세요.",
+            "lack_amount": "양파가 부족합니다. 표시된 영역에 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 8,
+          "step_code": 12,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v240319/pizza/bacon_potato/08.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 30,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 40,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 40g을 표시된 영역에 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 40g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 표시된 영역에 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 30,
+          "is_after": true,
+          "topping_value": 30,
+          "measure_note": "14줄(7x7격자)"
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(굵은굵기)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 10,
+      "analysis_idx": 13,
+      "menu_name": "스윗 치킨앤콘 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%86%BA+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": null,
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": null
+          }
+        },
+        {
+          "step_idx": 2,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(47)+%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%83%E1%85%A1%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF+%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3+%26+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%82%E1%85%A6%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 31,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "30줄"
+        },
+        {
+          "step_idx": 3,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 14,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 5,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(48)+%E1%84%91%E1%85%A1%E1%86%B8%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 32,
+          "is_after": false,
+          "topping_value": 60,
+          "measure_note": "10개(1/2컷)"
+        },
+        {
+          "step_idx": 6,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 7,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 7,
+          "measure_note": "7장(2-3-2배열)"
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(49)+%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%83%E1%85%A1%E1%86%AB+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 33,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "5개(1/2컷)"
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/07.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 19,
+          "is_after": true,
+          "topping_value": 30,
+          "measure_note": "14줄(7x7격자)"
+        },
+        {
+          "step_idx": 11,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 7,
+          "is_after": true,
+          "topping_value": 2,
+          "measure_note": "17회"
+        },
+        {
+          "step_idx": 12,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 23,
+          "is_after": true,
+          "topping_value": 2,
+          "measure_note": "5회(중간굵기)"
+        },
+        {
+          "step_idx": 13,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(시즈닝 통)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 11,
+      "analysis_idx": 13,
+      "menu_name": "스파이시 치킨앤콘 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%89%E1%85%B3%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B5+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": null,
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": null
+          }
+        },
+        {
+          "step_idx": 2,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(47)+%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%83%E1%85%A1%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF+%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3+%26+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%82%E1%85%A6%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 31,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "30줄"
+        },
+        {
+          "step_idx": 3,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 14,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 5,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(48)+%E1%84%91%E1%85%A1%E1%86%B8%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 32,
+          "is_after": false,
+          "topping_value": 60,
+          "measure_note": "10개(1/2컷)"
+        },
+        {
+          "step_idx": 6,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 7,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 7,
+          "measure_note": "7장(2-3-2배열)"
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(49)+%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%83%E1%85%A1%E1%86%AB+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 33,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "5개(1/2컷)"
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/07.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 34,
+          "is_after": true,
+          "topping_value": 25,
+          "measure_note": "14줄(7x7격자)"
+        },
+        {
+          "step_idx": 11,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 7,
+          "is_after": true,
+          "topping_value": 2,
+          "measure_note": "17회"
+        },
+        {
+          "step_idx": 12,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 12,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "10회"
+        },
+        {
+          "step_idx": 13,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(시즈닝 통)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 12,
+      "analysis_idx": 4,
+      "menu_name": "슈퍼 콤비네이션 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 70,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 70g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 70g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 20g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 25,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(25)+%E1%84%91%E1%85%AD%E1%84%80%E1%85%A9%E1%84%87%E1%85%A5%E1%84%89%E1%85%A5%E1%86%BA.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 35,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "8-10개",
+          "messages": {
+            "start": "표고버섯 8개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 표고버섯 8개를 도우에 놓아주세요.",
+            "no_toppings": "표고버섯을 도우에 놓아주세요.",
+            "lack_amount": "표고버섯이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 20,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(20)+%E1%84%8B%E1%85%A9%E1%84%84%E1%85%A6%E1%86%AF+%E1%84%91%E1%85%A9%E1%84%8F%E1%85%B3+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 9,
+          "is_after": false,
+          "topping_value": 15,
+          "measure_note": "17-18개",
+          "messages": {
+            "start": "오뗼 포크 토핑 17개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 오뗼 포크 토핑 17개를 도우에 놓아주세요.",
+            "no_toppings": "오뗼 포크 토핑을 도우에 놓아주세요.",
+            "lack_amount": "오뗼 포크 토핑이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 23,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 5,
+          "measure_note": "5장(3-2배열)",
+          "messages": {
+            "start": "페퍼로니 5개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 페퍼로니 5개를 도우에 놓아주세요.",
+            "no_toppings": "페퍼로니를 도우에 놓아주세요.",
+            "lack_amount": "페퍼로니가 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 7,
+          "step_code": 29,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(29)+%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A9%E1%86%AB(%E1%84%80%E1%85%A2%E1%84%89%E1%85%AE+%E1%84%80%E1%85%B5%E1%84%8C%E1%85%AE%E1%86%AB).png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 20,
+          "is_after": false,
+          "topping_value": 5,
+          "measure_note": "12-14개",
+          "messages": {
+            "start": "스위트콘 12개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 스위트콘 12개를 도우에 놓아주세요.",
+            "no_toppings": "스위트콘을 도우에 놓아주세요.",
+            "lack_amount": "스위트콘이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 8,
+          "step_code": 16,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/07.+(16)+%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%A8+%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%87%E1%85%B3.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 36,
+          "is_after": false,
+          "topping_value": 5,
+          "measure_note": "5-6개",
+          "messages": {
+            "start": "블랙 올리브 5개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 블랙 올리브 5개를 도우에 놓아주세요.",
+            "no_toppings": "블랙 올리브를 도우에 놓아주세요.",
+            "lack_amount": "블랙 올리브가 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 9,
+          "step_code": 21,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/08.+(21)+%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%91%E1%85%B5%E1%84%86%E1%85%A1%E1%86%BC.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 37,
+          "is_after": false,
+          "topping_value": 5,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 청피망 5g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 청피망 5g을 도우에 뿌려주세요.",
+            "no_toppings": "청피망을 도우에 뿌려주세요.",
+            "lack_amount": "청피망이 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 10,
+          "step_code": 19,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/09.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 양파 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 양파 10g을 도우에 뿌려주세요.",
+            "no_toppings": "양파를 도우에 뿌려주세요.",
+            "lack_amount": "양파가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 11,
+          "step_code": 15,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/10.+(15)+%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A5%E1%86%AB.png",
+          "required_value": 5,
+          "task": "detection",
+          "ingredient_idx": 29,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "5장",
+          "messages": {
+            "start": "베이컨 5개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 베이컨 5개를 도우에 놓아주세요.",
+            "no_toppings": "베이컨을 도우에 놓아주세요.",
+            "lack_amount": "베이컨이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 12,
+          "step_code": 12,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/11.+(4)+%E1%84%89%E1%85%B2%E1%84%91%E1%85%A5+%E1%84%8F%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/11.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 20g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 13,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(굵은굵기)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 13,
+      "analysis_idx": 11,
+      "menu_name": "K-불고기 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 6,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/09.+(11)+K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(6)+%E1%84%80%E1%85%AE%E1%84%8B%E1%85%AE%E1%86%AB+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1+%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 10,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "15줄",
+          "messages": {
+            "start": "하단 저울을 기준으로 구운 양파 소스 30g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 구운 양파 소스 30g을 도우에 펴 발라주세요.",
+            "no_toppings": "구운 양파 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "구운 양파 소스가 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/09.+(11)+K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 20g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 20g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 25,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/09.+(11)+K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(25)+%E1%84%91%E1%85%AD%E1%84%80%E1%85%A9%E1%84%87%E1%85%A5%E1%84%89%E1%85%A5%E1%86%BA.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 35,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": "18-20개",
+          "messages": {
+            "start": "표고버섯 18개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 표고버섯 18개를 도우에 놓아주세요.",
+            "no_toppings": "표고버섯을 도우에 놓아주세요.",
+            "lack_amount": "표고버섯이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 17,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/09.+(11)+K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(17)+%E1%84%89%E1%85%A9%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 38,
+          "is_after": false,
+          "topping_value": 50,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 소불고기 50g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 소불고기 50g을 도우에 뿌려주세요.",
+            "no_toppings": "소불고기를 도우에 뿌려주세요.",
+            "lack_amount": "소불고기가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 21,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/09.+(11)+K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(21)+%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%91%E1%85%B5%E1%84%86%E1%85%A1%E1%86%BC.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 37,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 청피망 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 청피망 10g을 도우에 뿌려주세요.",
+            "no_toppings": "청피망을 도우에 뿌려주세요.",
+            "lack_amount": "청피망이 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 7,
+          "step_code": 19,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/09.+(11)+K-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 양파 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 양파 10g을 도우에 뿌려주세요.",
+            "no_toppings": "양파를 도우에 뿌려주세요.",
+            "lack_amount": "양파가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 14,
+          "is_after": true,
+          "topping_value": 10,
+          "measure_note": "10줄"
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 31,
+          "is_after": true,
+          "topping_value": 10,
+          "measure_note": "10줄"
+        }
+      ]
+    },
+    {
+      "menu_idx": 14,
+      "analysis_idx": 9,
+      "menu_name": "페퍼로니&포테이토 반반 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%E1%84%8B%E1%85%A2%E1%86%AB+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "step_code": 26,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요.",
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": "테이블 위에 도우를 올리면 가이드를 시작합니다. 도우를 올려주세요."
+          }
+        },
+        {
+          "step_idx": 2,
+          "step_code": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(4)+%E1%84%90%E1%85%A9%E1%84%86%E1%85%A1%E1%84%90%E1%85%A9%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 2,
+          "is_after": false,
+          "topping_value": 70,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 토마토 소스 70g을 도우에 올린 후, 이미지와 같이 펴 발라주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 토마토 소스 70g을 도우에 펴 발라주세요.",
+            "no_toppings": "토마토 소스를 도우에 펴 발라주세요.",
+            "lack_amount": "토마토 소스가 부족합니다. 이미지와 같이 더 펴 발라주세요."
+          }
+        },
+        {
+          "step_idx": 3,
+          "step_code": 11,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 40,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 40g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 40g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 4,
+          "step_code": 23,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 9,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 9,
+          "measure_note": "9장(3-3-3배열)",
+          "messages": {
+            "start": "페퍼로니 9개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 페퍼로니 9개를 도우에 놓아주세요.",
+            "no_toppings": "페퍼로니를 도우에 놓아주세요.",
+            "lack_amount": "페퍼로니가 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 5,
+          "step_code": 24,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(24)+%E1%84%91%E1%85%A9%E1%84%8F%E1%85%B3+%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%84%80%E1%85%B5+%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AB.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 27,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 포크 불고기 분쇄 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 포크 불고기 분쇄 10g을 도우에 뿌려주세요.",
+            "no_toppings": "포크 불고기 분쇄를 도우에 뿌려주세요.",
+            "lack_amount": "포크 불고기 분쇄가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 6,
+          "step_code": 14,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(14)+%E1%84%87%E1%85%A2%E1%84%90%E1%85%A5+%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3.png",
+          "required_value": 5,
+          "task": "detection",
+          "ingredient_idx": 28,
+          "is_after": false,
+          "topping_value": 25,
+          "measure_note": "5-6개",
+          "messages": {
+            "start": "배터 바이트 5개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 배터 바이트 5개를 도우에 놓아주세요.",
+            "no_toppings": "배터 바이트를 도우에 놓아주세요.",
+            "lack_amount": "배터 바이트가 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 7,
+          "step_code": 15,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(15)+%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A5%E1%86%AB.png",
+          "required_value": 4,
+          "task": "detection",
+          "ingredient_idx": 29,
+          "is_after": false,
+          "topping_value": 8,
+          "measure_note": "4장",
+          "messages": {
+            "start": "베이컨 4개를 이미지와 같이 놓아주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 베이컨 4개를 도우에 놓아주세요.",
+            "no_toppings": "베이컨을 도우에 놓아주세요.",
+            "lack_amount": "베이컨이 부족합니다. 이미지와 같이 더 놓아주세요."
+          }
+        },
+        {
+          "step_idx": 8,
+          "step_code": 19,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/07.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 양파 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 양파 10g을 도우에 뿌려주세요.",
+            "no_toppings": "양파를 도우에 뿌려주세요.",
+            "lack_amount": "양파가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 9,
+          "step_code": 12,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/08.+(9)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5+%26+%E1%84%91%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/08.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": "",
+          "messages": {
+            "start": "하단 저울을 기준으로 모짜렐라 치즈 10g을 이미지와 같이 뿌려주세요.",
+            "wrong_topping_order": "현재 단계와 다른 재료 입니다. 모짜렐라 치즈 10g을 도우에 뿌려주세요.",
+            "no_toppings": "모짜렐라 치즈를 도우에 뿌려주세요.",
+            "lack_amount": "모짜렐라 치즈가 부족합니다. 이미지와 같이 더 뿌려주세요."
+          }
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 30,
+          "is_after": true,
+          "topping_value": 15,
+          "measure_note": "8줄(4x4격자)"
+        },
+        {
+          "step_idx": 11,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(굵은굵기)"
+        }
+      ]
+    },
+    {
+      "menu_idx": 15,
+      "analysis_idx": 13,
+      "menu_name": "치킨앤콘 반반 피자",
+      "menu_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1.png",
+      "menu_type": "pizza",
+      "use_guide": false,
+      "topping_steps": [
+        {
+          "step_idx": 1,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/aistt_guide/recipe_assets/v230331/main_images/%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE.png",
+          "required_value": 1,
+          "task": "detection",
+          "ingredient_idx": 1,
+          "is_after": false,
+          "topping_value": 1,
+          "measure_note": "",
+          "messages": {
+            "start": null,
+            "wrong_topping_order": null,
+            "no_toppings": null,
+            "lack_amount": null
+          }
+        },
+        {
+          "step_idx": 2,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/01.+(47)+%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%83%E1%85%A1%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF+%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3+%26+%E1%84%86%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%82%E1%85%A6%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 31,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "30줄"
+        },
+        {
+          "step_idx": 3,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "pass",
+          "ingredient_idx": 14,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 4,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/02.+(11)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 5,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/03.+(48)+%E1%84%91%E1%85%A1%E1%86%B8%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 32,
+          "is_after": false,
+          "topping_value": 60,
+          "measure_note": "10개(1/2컷)"
+        },
+        {
+          "step_idx": 6,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/04.+(19)+%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A1.png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 21,
+          "is_after": false,
+          "topping_value": 10,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 7,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/05.+(23)+%E1%84%91%E1%85%A6%E1%84%91%E1%85%A5%E1%84%85%E1%85%A9%E1%84%82%E1%85%B5.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 4,
+          "is_after": false,
+          "topping_value": 7,
+          "measure_note": "7장(2-3-2배열)"
+        },
+        {
+          "step_idx": 8,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/06.+(49)+%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%83%E1%85%A1%E1%86%AB+%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%AE.png",
+          "required_value": 100,
+          "task": "detection",
+          "ingredient_idx": 33,
+          "is_after": false,
+          "topping_value": 30,
+          "measure_note": "5개(1/2컷)"
+        },
+        {
+          "step_idx": 9,
+          "gt_image": "https://govis-ai.s3.ap-northeast-2.amazonaws.com/ground_truth_images/17.+(13)+%E1%84%8E%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%8F%E1%85%A9%E1%86%AB+%E1%84%91%E1%85%B5%E1%84%8C%E1%85%A1/07.+(12)+%E1%84%86%E1%85%A9%E1%84%8D%E1%85%A1%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A1+%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%B3(%E1%84%92%E1%85%AE+%E1%84%90%E1%85%A9%E1%84%91%E1%85%B5%E1%86%BC).png",
+          "required_value": 100,
+          "task": "segmentation",
+          "ingredient_idx": 3,
+          "is_after": false,
+          "topping_value": 20,
+          "measure_note": ""
+        },
+        {
+          "step_idx": 10,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 19,
+          "is_after": true,
+          "topping_value": 14,
+          "measure_note": "8줄(4x4격자)"
+        },
+        {
+          "step_idx": 11,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 34,
+          "is_after": true,
+          "topping_value": 14,
+          "measure_note": "8줄(4x4격자)"
+        },
+        {
+          "step_idx": 12,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 7,
+          "is_after": true,
+          "topping_value": 2,
+          "measure_note": "17회"
+        },
+        {
+          "step_idx": 13,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 23,
+          "is_after": true,
+          "topping_value": 1.5,
+          "measure_note": "3회(중간굵기)"
+        },
+        {
+          "step_idx": 14,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 12,
+          "is_after": true,
+          "topping_value": 0.3,
+          "measure_note": "6회"
+        },
+        {
+          "step_idx": 15,
+          "gt_image": "",
+          "required_value": 100,
+          "task": "TBD",
+          "ingredient_idx": 13,
+          "is_after": true,
+          "topping_value": 0.5,
+          "measure_note": "5회(시즈닝 통)"
+        }
+      ]
+    }
+  ]
+}
