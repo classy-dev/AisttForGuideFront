@@ -10,9 +10,9 @@ AISTT 시스템은 카메라로부터 받은 이미지를 실시간으로 처리
 
 ![AISTT Logo](public/img/thumb.png)
 
-## GOVIS Franchisee 포트폴리오 영상
+## AI Smart Topping Table 데모 영상
 
-[포트폴리오 살펴 보기](https://www.youtube.com/watch?v=kpD2ySE8nUo)
+[AISTT Smart Topping Table 살펴보기](https://youtu.be/vE4BE0GgL7U)
 
 
 
