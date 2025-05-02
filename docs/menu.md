@@ -2,8 +2,8 @@
 
 ## 계정 정보
 
-- 관리자 ID: futureplanning@gopizza.kr
-- 관리자 PW: FoodLab@2024!
+- 관리자 ID: ***
+- 관리자 PW: ***
 
 - [가이드 관리(스테이징)](https://stage.guide-adm.gopizza.kr/admin)
 - [가이드 관리(프로덕션)](https://guide-adm.gopizza.kr/admin)
